@@ -1,0 +1,23 @@
+author: 'Rhiannon Cameron'
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'pages'
+    values:
+      layout: 'base'
+description: "I’m Rhiannon Cameron: a microbiology major, novice programmer, bioinformatics adept, and UX enthusiast."
+exclude:
+  - '.gitignore'
+  - 'CNAME'
+  - 'LICENSE'
+  - 'README.md'
+  - 'sketch'
+keywords: 'rhiannon, cmrnrhi, cmrn-rhi, cmrn.rhi, cameron, microbiology, bioinformatics'
+permalink: pretty
+sass:
+  style: compressed
+  sass_dir: 'assets/styles'
+timezone: Canada/Pacific
+title: Rhiannon Cameron
+url: "https://cmrnrhi.github.io"
