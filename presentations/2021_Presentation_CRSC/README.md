@@ -2,7 +2,7 @@
 
 ## DataHarmonizer: a template-driven spreadsheet application utilizing ontologies to implement the Canadian COVID Genomics Network (CanCOGen) specification
 
-### Rhiannon Cameron, Damion Doole
+### Rhiannon Cameron, Damion Dooley
 
 **Affiliation:** Hsiao Public Health Bioinformatics Laboratory, Simon Fraser University, Burnaby, BC, Canada
 
