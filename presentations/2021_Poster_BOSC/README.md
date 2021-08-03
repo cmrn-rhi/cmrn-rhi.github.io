@@ -1,4 +1,4 @@
-# Bioinformatics Open-Source Conference (BOSC) 2021 Poster
+# Bioinformatics Open-Source Conference (BOSC) 2021 - POSTER
 
 ## Putting standards into practice - ontologizing the Canadian COVID Genomics Network specification
 
